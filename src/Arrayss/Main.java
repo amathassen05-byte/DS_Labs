@@ -7,8 +7,11 @@ public class Main {
         Arrayss arr=new Arrayss();
         int []numbers=new int[5];
         arr.input(numbers);
-        arr.Traversal(numbers);
-        arr.Traversal2(numbers);
-        arr.update(numbers, 9, 4);
+        //arr.ReverseTraversal(numbers);
+       // arr.Traversal(numbers);
+        //arr.Traversal2(numbers);
+       // arr.update(numbers, 2, 4);
+        //arr.delete(numbers,1);
+        arr.ShiftLeft_delete(numbers,2);
     }
 }
