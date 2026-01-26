@@ -14,7 +14,7 @@ public class Main {
        // arr.update(numbers, 2, 4);
         //arr.delete(numbers,1);
         //arr.ShiftLeft_delete(numbers,2);
-        arr.ShitRight_delete(numbers,1);
+       arr.ShitRight_delete(numbers,1);
         /*int result=arr.linearSearch(numbers,4);
         if (result!= -1)
             System.out.println("The index is found :"+result);
